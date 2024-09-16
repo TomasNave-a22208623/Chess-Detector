@@ -8,6 +8,8 @@ Descrição:
 Este projeto consisti no desenvolvimento de um software quem tem como objetivo a detecção de um tabuleiro de xadrez.
 O software tem de analisar uma imagem recebida com um tabuleiro de xadrez e conseguir identificar as pecas e as suas posições usando conteúdos de processamento de imagem
 
+Linguagem Utilizada: C#
+
 ![chess](https://github.com/user-attachments/assets/7e718f26-62c4-4881-85d5-1d33ef277d1b)
 
 Binarização do Tabuleiro:
