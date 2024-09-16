@@ -1,0 +1,9 @@
+22207061
+22208623
+0
+
+-Temos todos o filtros obrigatorios feitos, e dos filtros facultativos temos feito o Histogram_All e Histogram_RGB, com os respetivos histogramas a aparecer quando se da run ao mesmo.
+
+-Relativamente a interface grafica, adicionamos 3 botoes, "Binarizacao", "Recortar Tabuleiro" e "Detetar Peca", o botao "Binarizacao", como o proprio nome indica, binariza a imagem que tera sido selecionada anteriormente, o botao "Recortar Tabuleiro", recorta a imagem que tera sido selecionada anteriormente, deixando apenas o tabuleiro e recortando todas as margens, por fim o botao "Detetar Peca", deteta todas as pecas presentes no tabuleiro comparando-as com as pecas que estao presentes na base de dados, retornando uma lista que indica a posicao de cada peca presente no tabuleiro. Sempre que se carrega num botao, para poder carregar noutro tem de se selecionar uma imagem outra vez, senao, nao funciona
+
+-Adicionamos tambem uma imagem de fundo, e personalizamos a parte grafica que diz respeitos aos autores do projeto, colocando os nossos nomes bem como uma imagem de fundo.

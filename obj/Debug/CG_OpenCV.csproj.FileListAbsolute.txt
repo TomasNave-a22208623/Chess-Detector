@@ -1,0 +1,256 @@
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csprojResolveAssemblyReference.cache
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.Cache
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\jplad\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.Up2Date
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\Tomás Nave\Desktop\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.Up2Date
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Histogram.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ZedGraph.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ZedGraph.xml
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\CG_OpenCV_Base\SS_OpenCV\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ZedGraph.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ZedGraph.xml
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Histogram.resources
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.Up2Date
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\André Jesus\Desktop\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ZedGraph.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ZedGraph.xml
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Histogram.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.Up2Date
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\Projeto1_2\Projeto1\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ZedGraph.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ZedGraph.xml
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Histogram.resources
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CopyComplete
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\Houda\Documents\CG_OpenCV_Base\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\ZedGraph.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\ZedGraph.xml
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.Histogram.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.Up2Date
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\ZedGraph.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\ZedGraph.xml
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.Histogram.resources
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.Up2Date
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\André Jesus\Desktop\projeto-ModS\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\ZedGraph.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\ZedGraph.xml
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.Histogram.resources
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.Up2Date
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\André Jesus\Desktop\projetoFinalProc\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.exe.config
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.exe
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\CG_OpenCV.pdb
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\ZedGraph.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\ZedGraph.xml
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.AssemblyReference.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.AuthorsForm.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.Histogram.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.InputBox.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.MainForm.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.Properties.Resources.resources
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.GenerateResource.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.csproj.Up2Date
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.exe
+C:\Users\Tomás Nave\Documents\Faculdade\2ºAno\2ºSemestre\Processamento de Imagem 2º_2Sem\ProjetoProcImagemFinalizado\ProjetoProcImagemFinalizado\projeto-ModS\SS_OpenCV\obj\Debug\CG_OpenCV.pdb
